@@ -17,3 +17,6 @@ const backpack = {
     right:26,
     },
 };
+
+console.log("Backpack Object:",backpack);
+console.log("Strap Length L:",backpack.strapLenght.left);
